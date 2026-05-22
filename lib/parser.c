@@ -1,2 +1,2 @@
-// Update 4798 for lib/parser.c
-// Random hash: 76119
+// Update 4827 for lib/parser.c
+// Random hash: 71198
