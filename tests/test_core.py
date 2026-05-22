@@ -1,2 +1,2 @@
-// Update 2011 for tests/test_core.py
-// Random hash: 50141
+// Update 2012 for tests/test_core.py
+// Random hash: 27350
